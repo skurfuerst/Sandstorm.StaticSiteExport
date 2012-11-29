@@ -1,0 +1,7 @@
+Sandstorm:
+  StaticSiteExport:
+    sites:
+      website:
+        rootNode: '/sites/publicwebsite'
+        baseUri: 'http://localhost/website/'
+        exportDirectory: '/tmp/website'
